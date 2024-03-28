@@ -1,0 +1,270 @@
+[03-28-2024 12:32:44] [I] Server loaded. Type 'help' for help.
+[03-28-2024 12:33:53] [I] Commands:
+[03-28-2024 12:33:53] [I]    help [command] - Display the command list, or get help for a specific command.
+[03-28-2024 12:33:53] [I]    version - Displays server version info.
+[03-28-2024 12:33:53] [I]    exit - Exit the server application.
+[03-28-2024 12:33:53] [I]    stop - Stop hosting the server.
+[03-28-2024 12:33:53] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[03-28-2024 12:33:53] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[03-28-2024 12:33:53] [I]    reloadmaps - Reload all maps from disk.
+[03-28-2024 12:33:53] [I]    status - Display server status.
+[03-28-2024 12:33:53] [I]    mods - Display all loaded mods.
+[03-28-2024 12:33:53] [I]    mod <name...> - Display information about a loaded plugin.
+[03-28-2024 12:33:53] [I]    js <script...> - Run arbitrary Javascript.
+[03-28-2024 12:33:53] [I]    say <message...> - Send a message to all players.
+[03-28-2024 12:33:53] [I]    pause <on/off> - Pause or unpause the game.
+[03-28-2024 12:33:53] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[03-28-2024 12:33:53] [I]    fillitems [team] - Fill the core with items.
+[03-28-2024 12:33:53] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[03-28-2024 12:33:53] [I]    config [name] [value...] - Configure server settings.
+[03-28-2024 12:33:53] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[03-28-2024 12:33:53] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[03-28-2024 12:33:53] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[03-28-2024 12:33:53] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[03-28-2024 12:33:53] [I]    kick <username...> - Kick a person by name.
+[03-28-2024 12:33:53] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[03-28-2024 12:33:53] [I]    bans - List all banned IPs and IDs.
+[03-28-2024 12:33:53] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[03-28-2024 12:33:53] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[03-28-2024 12:33:53] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[03-28-2024 12:33:53] [I]    admins - List all admins.
+[03-28-2024 12:33:53] [I]    players - List all players currently in game.
+[03-28-2024 12:33:53] [I]    runwave - Trigger the next wave.
+[03-28-2024 12:33:53] [I]    load <slot> - Load a save from a slot.
+[03-28-2024 12:33:53] [I]    save <slot> - Save game state to a slot.
+[03-28-2024 12:33:53] [I]    saves - List all saves in the save directory.
+[03-28-2024 12:33:53] [I]    gameover - Force a game over.
+[03-28-2024 12:33:53] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[03-28-2024 12:33:53] [I]    search <name...> - Search players who have used part of a name.
+[03-28-2024 12:33:53] [I]    gc - Trigger a garbage collection. Testing only.
+[03-28-2024 12:33:53] [I]    yes - Run the last suggested incorrect command.
+[03-28-2024 12:36:49] [E] Command not found. Did you mean "js"?
+[03-28-2024 12:36:49] [I] Randomized next map to be Triad.
+[03-28-2024 12:36:49] [I] Loading map...
+[03-28-2024 12:36:50] [I] Map loaded.
+[03-28-2024 12:36:50] [I] Opened a server on port 6567.
+[03-28-2024 12:37:10] [I] Server loaded. Type 'help' for help.
+[03-28-2024 12:37:41] [E] Command not found. Did you mean "js"?
+[03-28-2024 12:37:41] [E] Command not found. Did you mean "js"?
+[03-28-2024 12:37:41] [E] Command not found. Did you mean "js"?
+[03-28-2024 12:37:41] [E] No map with name 'test.msav' found.
+[03-28-2024 12:37:57] [E] No map with name 'test' found.
+[03-28-2024 12:38:06] [E] No map with name 'sandbox' found.
+[03-28-2024 12:38:09] [I] Randomized next map to be Islands.
+[03-28-2024 12:38:09] [I] Loading map...
+[03-28-2024 12:38:10] [I] Map loaded.
+[03-28-2024 12:38:10] [I] Opened a server on port 6567.
+[03-28-2024 12:40:54] [I] Commands:
+[03-28-2024 12:40:54] [I]    help [command] - Display the command list, or get help for a specific command.
+[03-28-2024 12:40:54] [I]    version - Displays server version info.
+[03-28-2024 12:40:54] [I]    exit - Exit the server application.
+[03-28-2024 12:40:54] [I]    stop - Stop hosting the server.
+[03-28-2024 12:40:54] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[03-28-2024 12:40:54] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[03-28-2024 12:40:54] [I]    reloadmaps - Reload all maps from disk.
+[03-28-2024 12:40:54] [I]    status - Display server status.
+[03-28-2024 12:40:54] [I]    mods - Display all loaded mods.
+[03-28-2024 12:40:54] [I]    mod <name...> - Display information about a loaded plugin.
+[03-28-2024 12:40:54] [I]    js <script...> - Run arbitrary Javascript.
+[03-28-2024 12:40:54] [I]    say <message...> - Send a message to all players.
+[03-28-2024 12:40:54] [I]    pause <on/off> - Pause or unpause the game.
+[03-28-2024 12:40:54] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[03-28-2024 12:40:54] [I]    fillitems [team] - Fill the core with items.
+[03-28-2024 12:40:54] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[03-28-2024 12:40:54] [I]    config [name] [value...] - Configure server settings.
+[03-28-2024 12:40:54] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[03-28-2024 12:40:54] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[03-28-2024 12:40:54] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[03-28-2024 12:40:54] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[03-28-2024 12:40:54] [I]    kick <username...> - Kick a person by name.
+[03-28-2024 12:40:54] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[03-28-2024 12:40:54] [I]    bans - List all banned IPs and IDs.
+[03-28-2024 12:40:54] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[03-28-2024 12:40:54] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[03-28-2024 12:40:54] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[03-28-2024 12:40:54] [I]    admins - List all admins.
+[03-28-2024 12:40:54] [I]    players - List all players currently in game.
+[03-28-2024 12:40:54] [I]    runwave - Trigger the next wave.
+[03-28-2024 12:40:54] [I]    load <slot> - Load a save from a slot.
+[03-28-2024 12:40:54] [I]    save <slot> - Save game state to a slot.
+[03-28-2024 12:40:54] [I]    saves - List all saves in the save directory.
+[03-28-2024 12:40:54] [I]    gameover - Force a game over.
+[03-28-2024 12:40:54] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[03-28-2024 12:40:54] [I]    search <name...> - Search players who have used part of a name.
+[03-28-2024 12:40:54] [I]    gc - Trigger a garbage collection. Testing only.
+[03-28-2024 12:40:54] [I]    yes - Run the last suggested incorrect command.
+[03-28-2024 12:40:59] [E] Too few command arguments. Usage: info <IP/UUID/name...>
+[03-28-2024 12:41:08] [I] Nobody with that name could be found.
+[03-28-2024 12:43:53] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[03-28-2024 12:43:53] [I] Selected next map to be Maze.
+[03-28-2024 12:50:32] [I] Game over! Reached wave 3 with 0 players online on map Maze.
+[03-28-2024 12:50:32] [I] Selected next map to be Tendrils.
+[03-28-2024 12:56:19] [I] Game over! Reached wave 2 with 0 players online on map Tendrils.
+[03-28-2024 12:56:19] [I] Selected next map to be Maze.
+[03-28-2024 13:02:59] [I] Game over! Reached wave 3 with 0 players online on map Maze.
+[03-28-2024 13:02:59] [I] Selected next map to be Domain.
+[03-28-2024 13:15:20] [I] Game over! Reached wave 3 with 0 players online on map Domain.
+[03-28-2024 13:15:20] [I] Selected next map to be Fortress.
+[03-28-2024 13:20:48] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[03-28-2024 13:20:48] [I] Selected next map to be Debris Field.
+[03-28-2024 13:26:06] [I] Game over! Reached wave 2 with 0 players online on map Debris Field.
+[03-28-2024 13:26:06] [I] Selected next map to be Islands.
+[03-28-2024 13:32:01] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[03-28-2024 13:32:01] [I] Selected next map to be Ancient Caldera.
+[03-28-2024 13:37:33] [I] Game over! Reached wave 2 with 0 players online on map Ancient Caldera.
+[03-28-2024 13:37:33] [I] Selected next map to be Fortress.
+[03-28-2024 13:43:01] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[03-28-2024 13:43:01] [I] Selected next map to be Debris Field.
+[03-28-2024 13:48:20] [I] Game over! Reached wave 2 with 0 players online on map Debris Field.
+[03-28-2024 13:48:20] [I] Selected next map to be Shattered.
+[03-28-2024 13:55:13] [I] Game over! Reached wave 3 with 0 players online on map Shattered.
+[03-28-2024 13:55:13] [I] Selected next map to be Ancient Caldera.
+[03-28-2024 14:00:46] [I] Game over! Reached wave 2 with 0 players online on map Ancient Caldera.
+[03-28-2024 14:00:46] [I] Selected next map to be Islands.
+[03-28-2024 14:06:41] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[03-28-2024 14:06:41] [I] Selected next map to be Fork.
+[03-28-2024 14:13:01] [I] Game over! Reached wave 3 with 0 players online on map Fork.
+[03-28-2024 14:13:01] [I] Selected next map to be Triad.
+[03-28-2024 14:20:38] [I] Game over! Reached wave 2 with 0 players online on map Triad.
+[03-28-2024 14:20:38] [I] Selected next map to be Archipelago.
+[03-28-2024 14:35:38] [I] Game over! Reached wave 6 with 0 players online on map Archipelago.
+[03-28-2024 14:35:38] [I] Selected next map to be Islands.
+[03-28-2024 14:41:34] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[03-28-2024 14:41:34] [I] Selected next map to be Shattered.
+[03-28-2024 14:48:27] [I] Game over! Reached wave 3 with 0 players online on map Shattered.
+[03-28-2024 14:48:27] [I] Selected next map to be Mud Flats.
+[03-28-2024 14:55:12] [I] Game over! Reached wave 3 with 0 players online on map Mud Flats.
+[03-28-2024 14:55:12] [I] Selected next map to be Triad.
+[03-28-2024 15:02:49] [I] Game over! Reached wave 2 with 0 players online on map Triad.
+[03-28-2024 15:02:49] [I] Selected next map to be Fortress.
+[03-28-2024 15:08:17] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[03-28-2024 15:08:17] [I] Selected next map to be Mud Flats.
+[03-28-2024 15:15:01] [I] Game over! Reached wave 3 with 0 players online on map Mud Flats.
+[03-28-2024 15:15:01] [I] Selected next map to be Islands.
+[03-28-2024 15:20:57] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[03-28-2024 15:20:57] [I] Selected next map to be Fortress.
+[03-28-2024 15:26:25] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[03-28-2024 15:26:25] [I] Selected next map to be Shattered.
+[03-28-2024 15:33:19] [I] Game over! Reached wave 3 with 0 players online on map Shattered.
+[03-28-2024 15:33:19] [I] Selected next map to be Triad.
+[03-28-2024 15:40:57] [I] Game over! Reached wave 2 with 0 players online on map Triad.
+[03-28-2024 15:40:57] [I] Selected next map to be Molten Lake.
+[03-28-2024 15:46:53] [I] Game over! Reached wave 2 with 0 players online on map Molten Lake.
+[03-28-2024 15:46:53] [I] Selected next map to be Islands.
+[03-28-2024 15:52:49] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[03-28-2024 15:52:49] [I] Selected next map to be Wasteland.
+[03-28-2024 15:59:42] [I] Game over! Reached wave 3 with 0 players online on map Wasteland.
+[03-28-2024 15:59:42] [I] Selected next map to be Labyrinth.
+[03-28-2024 16:06:01] [I] Game over! Reached wave 3 with 0 players online on map Labyrinth.
+[03-28-2024 16:06:01] [I] Selected next map to be Ancient Caldera.
+[03-28-2024 16:11:33] [I] Game over! Reached wave 2 with 0 players online on map Ancient Caldera.
+[03-28-2024 16:11:33] [I] Selected next map to be Fork.
+[03-28-2024 16:17:53] [I] Game over! Reached wave 3 with 0 players online on map Fork.
+[03-28-2024 16:17:53] [I] Selected next map to be Domain.
+[03-28-2024 16:30:14] [I] Game over! Reached wave 3 with 0 players online on map Domain.
+[03-28-2024 16:30:14] [I] Selected next map to be Wasteland.
+[03-28-2024 16:30:32] [E] Invalid command. Type 'help' for help.
+[03-28-2024 16:30:38] [E] Too few command arguments. Usage: info <IP/UUID/name...>
+[03-28-2024 16:30:41] [I] Commands:
+[03-28-2024 16:30:41] [I]    help [command] - Display the command list, or get help for a specific command.
+[03-28-2024 16:30:41] [I]    version - Displays server version info.
+[03-28-2024 16:30:41] [I]    exit - Exit the server application.
+[03-28-2024 16:30:41] [I]    stop - Stop hosting the server.
+[03-28-2024 16:30:41] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[03-28-2024 16:30:41] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[03-28-2024 16:30:41] [I]    reloadmaps - Reload all maps from disk.
+[03-28-2024 16:30:41] [I]    status - Display server status.
+[03-28-2024 16:30:41] [I]    mods - Display all loaded mods.
+[03-28-2024 16:30:41] [I]    mod <name...> - Display information about a loaded plugin.
+[03-28-2024 16:30:41] [I]    js <script...> - Run arbitrary Javascript.
+[03-28-2024 16:30:41] [I]    say <message...> - Send a message to all players.
+[03-28-2024 16:30:41] [I]    pause <on/off> - Pause or unpause the game.
+[03-28-2024 16:30:41] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[03-28-2024 16:30:41] [I]    fillitems [team] - Fill the core with items.
+[03-28-2024 16:30:41] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[03-28-2024 16:30:41] [I]    config [name] [value...] - Configure server settings.
+[03-28-2024 16:30:41] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[03-28-2024 16:30:41] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[03-28-2024 16:30:41] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[03-28-2024 16:30:41] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[03-28-2024 16:30:41] [I]    kick <username...> - Kick a person by name.
+[03-28-2024 16:30:41] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[03-28-2024 16:30:41] [I]    bans - List all banned IPs and IDs.
+[03-28-2024 16:30:41] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[03-28-2024 16:30:41] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[03-28-2024 16:30:41] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[03-28-2024 16:30:41] [I]    admins - List all admins.
+[03-28-2024 16:30:41] [I]    players - List all players currently in game.
+[03-28-2024 16:30:41] [I]    runwave - Trigger the next wave.
+[03-28-2024 16:30:41] [I]    load <slot> - Load a save from a slot.
+[03-28-2024 16:30:41] [I]    save <slot> - Save game state to a slot.
+[03-28-2024 16:30:41] [I]    saves - List all saves in the save directory.
+[03-28-2024 16:30:41] [I]    gameover - Force a game over.
+[03-28-2024 16:30:41] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[03-28-2024 16:30:41] [I]    search <name...> - Search players who have used part of a name.
+[03-28-2024 16:30:41] [I]    gc - Trigger a garbage collection. Testing only.
+[03-28-2024 16:30:41] [I]    yes - Run the last suggested incorrect command.
+[03-28-2024 16:30:52] [I] Version: Mindustry 7-release official / build 146
+[03-28-2024 16:30:52] [I] Java Version: 17.0.10
+[03-28-2024 16:31:07] [I] Status:
+[03-28-2024 16:31:07] [I]   Playing on map Wasteland / Wave 1
+[03-28-2024 16:31:07] [I]   199 seconds until next wave.
+[03-28-2024 16:31:07] [I]   0 units / 0 enemies
+[03-28-2024 16:31:07] [I]   61 FPS, 64 MB used.
+[03-28-2024 16:31:07] [I]   No players connected.
+[03-28-2024 16:37:07] [I] Game over! Reached wave 3 with 0 players online on map Wasteland.
+[03-28-2024 16:37:07] [I] Selected next map to be Fortress.
+[03-28-2024 16:42:36] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[03-28-2024 16:42:36] [I] Selected next map to be Maze.
+[03-28-2024 16:49:15] [I] Game over! Reached wave 3 with 0 players online on map Maze.
+[03-28-2024 16:49:15] [I] Selected next map to be Mud Flats.
+[03-28-2024 16:55:59] [I] Game over! Reached wave 3 with 0 players online on map Mud Flats.
+[03-28-2024 16:55:59] [I] Selected next map to be Labyrinth.
+[03-28-2024 17:02:18] [I] Game over! Reached wave 3 with 0 players online on map Labyrinth.
+[03-28-2024 17:02:18] [I] Selected next map to be Fortress.
+[03-28-2024 17:07:47] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[03-28-2024 17:07:47] [I] Selected next map to be Mud Flats.
+[03-28-2024 17:12:29] [I] kingrainER has connected. [7+qIp9O6pocAAAAA30+kkw==]
+[03-28-2024 17:12:39] [I] kingrainER has disconnected. [7+qIp9O6pocAAAAA30+kkw==] (closed)
+[03-28-2024 17:14:31] [I] Game over! Reached wave 3 with 0 players online on map Mud Flats.
+[03-28-2024 17:14:31] [I] Selected next map to be Triad.
+[03-28-2024 17:15:43] [I] Commands:
+[03-28-2024 17:15:43] [I]    help [command] - Display the command list, or get help for a specific command.
+[03-28-2024 17:15:43] [I]    version - Displays server version info.
+[03-28-2024 17:15:43] [I]    exit - Exit the server application.
+[03-28-2024 17:15:43] [I]    stop - Stop hosting the server.
+[03-28-2024 17:15:43] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[03-28-2024 17:15:43] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[03-28-2024 17:15:43] [I]    reloadmaps - Reload all maps from disk.
+[03-28-2024 17:15:43] [I]    status - Display server status.
+[03-28-2024 17:15:43] [I]    mods - Display all loaded mods.
+[03-28-2024 17:15:43] [I]    mod <name...> - Display information about a loaded plugin.
+[03-28-2024 17:15:43] [I]    js <script...> - Run arbitrary Javascript.
+[03-28-2024 17:15:43] [I]    say <message...> - Send a message to all players.
+[03-28-2024 17:15:43] [I]    pause <on/off> - Pause or unpause the game.
+[03-28-2024 17:15:43] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[03-28-2024 17:15:43] [I]    fillitems [team] - Fill the core with items.
+[03-28-2024 17:15:43] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[03-28-2024 17:15:43] [I]    config [name] [value...] - Configure server settings.
+[03-28-2024 17:15:43] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[03-28-2024 17:15:43] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[03-28-2024 17:15:43] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[03-28-2024 17:15:43] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[03-28-2024 17:15:43] [I]    kick <username...> - Kick a person by name.
+[03-28-2024 17:15:43] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[03-28-2024 17:15:43] [I]    bans - List all banned IPs and IDs.
+[03-28-2024 17:15:43] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[03-28-2024 17:15:43] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[03-28-2024 17:15:43] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[03-28-2024 17:15:43] [I]    admins - List all admins.
+[03-28-2024 17:15:43] [I]    players - List all players currently in game.
+[03-28-2024 17:15:43] [I]    runwave - Trigger the next wave.
+[03-28-2024 17:15:43] [I]    load <slot> - Load a save from a slot.
+[03-28-2024 17:15:43] [I]    save <slot> - Save game state to a slot.
+[03-28-2024 17:15:43] [I]    saves - List all saves in the save directory.
+[03-28-2024 17:15:43] [I]    gameover - Force a game over.
+[03-28-2024 17:15:43] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[03-28-2024 17:15:43] [I]    search <name...> - Search players who have used part of a name.
+[03-28-2024 17:15:43] [I]    gc - Trigger a garbage collection. Testing only.
+[03-28-2024 17:15:43] [I]    yes - Run the last suggested incorrect command.
+[03-28-2024 17:17:00] [E] Command not found. Did you mean "mod"?
